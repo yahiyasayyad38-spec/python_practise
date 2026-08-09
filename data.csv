@@ -1,0 +1,5 @@
+name,age,department,subjects,salary
+KATE,54,IT,"['OOP', 'DSS', 'RDBMS']",47000
+JOHN,23,Computer Science,"['Python', 'Java', 'DBMS']",77000
+ALICE,21,Electronics,"['Digital Logic', 'Microprocessors', 'VLSI']",57000
+DAVID,22,IT,"['Thermodynamics', 'CAD', 'Fluid Mechanics']",37000

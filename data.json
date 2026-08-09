@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Kate",
+    "department": "IT",
+    "subjects": [
+      "OOP",
+      "DSS",
+      "RDBMS"
+    ],
+    "salary":47000
+},
+{
+    "name": "John",
+    "department": "Computer Science",
+    "subjects": [
+        "Python",
+        "Java",
+        "DBMS"
+    ],
+    "salary":77000
+},
+{
+    "name": "Alice",
+    "department": "Electronics",
+    "subjects": [
+        "Digital Logic",
+        "Microprocessors",
+        "VLSI"
+    ],
+    "salary":57000
+},
+{
+    "name": "David",
+    "department": "IT",
+    "subjects": [
+        "Thermodynamics",
+        "CAD",
+        "Fluid Mechanics"
+    ],
+    "salary":37000
+  }
+]
