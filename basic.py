@@ -1,4 +1,5 @@
 # data type (str,list,dict,tuple,set)
+# list comprehension
 # func
 # lambda, filter, map, reduce
 
@@ -20,5 +21,5 @@ def string_operation():
     print(string.replace(' ','_'))
     print(string)
     # print(dir(str))
-string_operation()
+# string_operation()
 

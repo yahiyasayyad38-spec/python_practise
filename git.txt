@@ -1,3 +1,44 @@
 git add .
 git commit -m "first commit"
 git push -u origin main
+
+
+
+
+--- python ---
+identifiers 
+data type
+    int,
+    float,
+    tuple,
+    bool,
+    null
+    string,
+    list,
+    set,
+    dict,
+
+- conditional operation
+    if,elif,else
+
+- list comprehension
+- dict comprehension
+- set comprehension
+- generator comprehension \ operator
+
+- func/ build in func
+- lambda, map, filter, reduce, len, sum, max, min
+
+- exception handling
+    try - resky code,
+    except - error handle,
+    else - if not error ,
+    finally - it run always
+
+- oops
+
+- modules
+
+- pandas
+
+- numpy
