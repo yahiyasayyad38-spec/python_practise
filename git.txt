@@ -42,3 +42,9 @@ data type
 - pandas
 
 - numpy
+
+
+
+>venv\Scripts\activate
+
+ctrl + shift + p ---- select interpreter - find - python_practise\venv\Scripts\python.exe

@@ -1,0 +1,61 @@
+,employee_id,name,age,email,department,salary,city,bonus,tax,net_salary,month,sales,subjects,day,temp,condition
+0,14,Laurie Cox,22,terri73@example.org,Civil,63040,Jacquelineburgh,3152.0,6304.0,56736.0,0.0,0.0,NA,NA,0,NA
+1,20,Justin Robinson,43,jadkins@example.com,Civil,97079,East Ericchester,4853.95,9707.9,87371.1,0.0,0.0,NA,NA,0,NA
+2,10,Mary Hoover,29,khernandez@example.com,Civil,90623,Port Thomasfurt,0.0,,,0.0,0.0,NA,NA,0,NA
+3,24,Heather Bailey,23,harrisedward@example.org,Civil,37738,Kristyview,1886.9,3773.8,33964.2,0.0,0.0,NA,NA,0,NA
+4,14,Laurie Cox,22,terri73@example.org,Civil,63040,Jacquelineburgh,0.0,,,0.0,0.0,NA,NA,0,NA
+5,28,Hannah Reed,34,brandi23@example.org,Civil,87249,New Susan,4362.45,8724.9,78524.1,0.0,0.0,NA,NA,0,NA
+6,7,Craig Lewis,22,matthew34@example.net,Civil,34322,Christophermouth,0.0,,,0.0,0.0,NA,NA,0,NA
+7,4,Paul Andrews,25,whitemichael@example.com,Civil,95395,Lake Robertfurt,0.0,,,0.0,0.0,NA,NA,0,NA
+8,21,Taylor Kerr,54,hughesdeborah@example.net,Civil,65482,Port Amandabury,3274.1000000000004,6548.200000000001,58933.8,0.0,0.0,NA,NA,0,NA
+9,10,Mary Hoover,29,khernandez@example.com,Civil,90623,Port Thomasfurt,4531.150000000001,9062.3,81560.7,0.0,0.0,NA,NA,0,NA
+10,22,Jared Ferguson,32,sandra38@example.com,Civil,81867,West Amanda,4093.35,8186.700000000001,73680.3,0.0,0.0,NA,NA,0,NA
+11,20,Justin Robinson,43,jadkins@example.com,Civil,97079,East Ericchester,0.0,,,0.0,0.0,NA,NA,0,NA
+12,7,Craig Lewis,22,matthew34@example.net,Civil,34322,Christophermouth,1716.1,3432.2000000000003,30889.8,0.0,0.0,NA,NA,0,NA
+13,21,Taylor Kerr,54,hughesdeborah@example.net,Civil,65482,Port Amandabury,0.0,,,0.0,0.0,NA,NA,0,NA
+14,22,Jared Ferguson,32,sandra38@example.com,Civil,81867,West Amanda,0.0,,,0.0,0.0,NA,NA,0,NA
+15,4,Paul Andrews,25,whitemichael@example.com,Civil,95395,Lake Robertfurt,4769.75,9539.5,85855.5,0.0,0.0,NA,NA,0,NA
+16,24,Heather Bailey,23,harrisedward@example.org,Civil,37738,Kristyview,0.0,,,0.0,0.0,NA,NA,0,NA
+17,28,Hannah Reed,34,brandi23@example.org,Civil,87249,New Susan,0.0,,,0.0,0.0,NA,NA,0,NA
+18,23,Stephanie Murray,23,terri73@example.net,Electrical,49030,Kristyport,0.0,,,0.0,0.0,NA,NA,0,NA
+19,11,Todd Clark,21,williamwilliams@example.net,Electrical,77005,Amandaport,0.0,,,0.0,0.0,NA,NA,0,NA
+20,23,Stephanie Murray,23,terri73@example.net,Electrical,49030,Kristyport,2451.5,4903.0,44127.0,0.0,0.0,NA,NA,0,NA
+21,11,Todd Clark,21,williamwilliams@example.net,Electrical,77005,Amandaport,3850.25,7700.5,69304.5,0.0,0.0,NA,NA,0,NA
+22,3,Kendra Cunningham,20,terri73@example.org,IT,64085,East Kevintown,0.0,,,0.0,0.0,NA,NA,0,NA
+23,1,Randall Sharp,22,khernandez@example.net,IT,73958,Kellymouth,3697.9,7395.8,66562.2,0.0,0.0,NA,NA,0,NA
+24,12,Sarah Bell,20,stephanie57@example.org,IT,88955,South Leahshire,0.0,,,0.0,0.0,NA,NA,0,NA
+25,16,Tina Washington,22,josephkennedy@example.com,IT,97535,Lake Amberfort,0.0,,,0.0,0.0,NA,NA,0,NA
+26,18,Brent Lambert,54,khernandez@example.org,IT,98386,West Danielchester,0.0,,,0.0,0.0,NA,NA,0,NA
+27,19,Patricia Hoover,23,rhodessarah@example.com,IT,36021,Matthewbury,0.0,,,0.0,0.0,NA,NA,0,NA
+28,8,Paul Hawkins,21,fyoung@example.org,IT,41079,Michaelview,0.0,,,0.0,0.0,NA,NA,0,NA
+29,1,Randall Sharp,22,khernandez@example.net,IT,73958,Kellymouth,0.0,,,0.0,0.0,NA,NA,0,NA
+30,30,Veronica Jones,21,khernandez@example.com,IT,99244,North Isaac,4962.200000000001,9924.4,89319.6,0.0,0.0,NA,NA,0,NA
+31,30,Veronica Jones,21,khernandez@example.com,IT,99244,North Isaac,0.0,,,0.0,0.0,NA,NA,0,NA
+32,3,Kendra Cunningham,20,terri73@example.org,IT,64085,East Kevintown,3204.25,6408.5,57676.5,0.0,0.0,NA,NA,0,NA
+33,19,Patricia Hoover,23,rhodessarah@example.com,IT,36021,Matthewbury,1801.0500000000002,3602.1000000000004,32418.9,0.0,0.0,NA,NA,0,NA
+34,18,Brent Lambert,54,khernandez@example.org,IT,98386,West Danielchester,4919.3,9838.6,88547.4,0.0,0.0,NA,NA,0,NA
+35,8,Paul Hawkins,21,fyoung@example.org,IT,41079,Michaelview,2053.9500000000003,4107.900000000001,36971.1,0.0,0.0,NA,NA,0,NA
+36,16,Tina Washington,22,josephkennedy@example.com,IT,97535,Lake Amberfort,4876.75,9753.5,87781.5,0.0,0.0,NA,NA,0,NA
+37,12,Sarah Bell,20,stephanie57@example.org,IT,88955,South Leahshire,4447.75,8895.5,80059.5,0.0,0.0,NA,NA,0,NA
+38,2,Charles Wheeler,30,chad73@example.org,Marketing,81047,Robinsonbury,4052.35,8104.700000000001,72942.3,0.0,0.0,NA,NA,0,NA
+39,27,Elizabeth Webb,21,josephking@example.com,Marketing,32192,Fritzview,0.0,,,0.0,0.0,NA,NA,0,NA
+40,26,Mark Peters,61,zcompton@example.com,Marketing,62268,Davidhaven,0.0,,,0.0,0.0,NA,NA,0,NA
+41,25,Karen Morales,45,cowanmatthew@example.com,Marketing,35814,Cabreraside,0.0,,,0.0,0.0,NA,NA,0,NA
+42,6,Steven Mason,30,antonioporter@example.net,Marketing,79606,Molinaberg,3980.3,7960.6,71645.4,0.0,0.0,NA,NA,0,NA
+43,17,Richard Avila,34,desiree24@example.net,Marketing,85185,Jamesborough,0.0,,,0.0,0.0,NA,NA,0,NA
+44,15,Johnny Roy,10,brooksrodney@example.org,Marketing,84243,Madisonberg,0.0,,,0.0,0.0,NA,NA,0,NA
+45,15,Johnny Roy,10,brooksrodney@example.org,Marketing,84243,Madisonberg,4212.150000000001,8424.300000000001,75818.7,0.0,0.0,NA,NA,0,NA
+46,17,Richard Avila,34,desiree24@example.net,Marketing,85185,Jamesborough,4259.25,8518.5,76666.5,0.0,0.0,NA,NA,0,NA
+47,25,Karen Morales,45,cowanmatthew@example.com,Marketing,35814,Cabreraside,1790.7,3581.4,32232.6,0.0,0.0,NA,NA,0,NA
+48,6,Steven Mason,30,antonioporter@example.net,Marketing,79606,Molinaberg,0.0,,,0.0,0.0,NA,NA,0,NA
+49,26,Mark Peters,61,zcompton@example.com,Marketing,62268,Davidhaven,3113.4,6226.8,56041.2,0.0,0.0,NA,NA,0,NA
+50,27,Elizabeth Webb,21,josephking@example.com,Marketing,32192,Fritzview,1609.6,3219.2000000000003,28972.8,0.0,0.0,NA,NA,0,NA
+51,2,Charles Wheeler,30,chad73@example.org,Marketing,81047,Robinsonbury,0.0,,,0.0,0.0,NA,NA,0,NA
+52,13,Rebecca Merritt,21,carlysmith@example.org,Mechanical,69818,South Sabrina,3490.9,6981.8,62836.2,0.0,0.0,NA,NA,0,NA
+53,13,Rebecca Merritt,21,carlysmith@example.org,Mechanical,69818,South Sabrina,0.0,,,0.0,0.0,NA,NA,0,NA
+54,9,Frank Johnson,19,sandymatthews@example.net,Mechanical,63935,Port Christopher,3196.75,6393.5,57541.5,0.0,0.0,NA,NA,0,NA
+55,9,Frank Johnson,19,sandymatthews@example.net,Mechanical,63935,Port Christopher,0.0,,,0.0,0.0,NA,NA,0,NA
+56,5,Heather Estrada,44,joelho@example.net,Mechanical,76673,Micheleshire,3833.65,7667.3,69005.7,0.0,0.0,NA,NA,0,NA
+57,5,Heather Estrada,44,joelho@example.net,Mechanical,76673,Micheleshire,0.0,,,0.0,0.0,NA,NA,0,NA
+58,29,Patrick Lewis,20,tneal@example.org,Mechanical,39095,Debbieshire,0.0,,,0.0,0.0,NA,NA,0,NA
+59,29,Patrick Lewis,20,tneal@example.org,Mechanical,39095,Debbieshire,1954.75,3909.5,35185.5,0.0,0.0,NA,NA,0,NA
