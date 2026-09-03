@@ -23,3 +23,21 @@ def string_operation():
     # print(dir(str))
 # string_operation()
 
+
+import pandas as pd
+
+
+people = {
+    'first_name' : ['bleas','charlie','alies'],
+    'last_name': ['doe','kate','john'],
+    'email' : ['belas@gmail.com','charlie@gmail.com','alies@gmail.com']
+}
+
+df = pd.DataFrame(people)
+print(df)
+print(df.head())
+print(df.shape)
+
+
+
+
