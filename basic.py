@@ -34,7 +34,7 @@ people = {
 }
 
 df = pd.DataFrame(people)
-print(df)
+# print(df)
 print(df.head())
 print(df.shape)
 
