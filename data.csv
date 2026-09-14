@@ -1,5 +1,18 @@
-name,age,department,subjects,salary
-KATE,54,IT,"['OOP', 'DSS', 'RDBMS']",47000
-JOHN,23,Computer Science,"['Python', 'Java', 'DBMS']",77000
-ALICE,21,Electronics,"['Digital Logic', 'Microprocessors', 'VLSI']",57000
-DAVID,22,IT,"['Thermodynamics', 'CAD', 'Fluid Mechanics']",37000
+Name,Age,Experience,Salary,Department
+Belas,23,5,30000,IT
+Charlie,30,3,35000,HR
+Kate,25,10,25000,Data Science
+Alies,32,19,20000,Developer
+Sunny,29,2,20000,Cloud
+Paul,20,4,15000,Backend
+Harsh,21,1,18000,HR
+Ross,NA,None,40000,IT
+Missing,32,10,38000,Data Science
+None,24,Missing,NA,Data Engineer
+John,NA,6,28000,IT
+Sarah,27,NA,Missing,HR
+None,29,8,32000,NA
+Mike,Missing,5,25000,Developer
+David,26,None,Missing,Cloud
+Emma,NA,NA,45000,None
+Sarah,27,NA,Missing,HR
