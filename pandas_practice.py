@@ -52,7 +52,7 @@ df = pd.read_csv(CSV_PATH)
 # print(df.drop(columns='Experience'))
 # print(df.drop_duplicates())
 # print(df['Age'].mean().round(2))
-# df['Salary'] =pd.to_numeric(df['Salary'],errors='coerce')
+df['Salary'] =pd.to_numeric(df['Salary'],errors='coerce')
 # print(df.loc[df['Salary'] >25000])
 # print(df.sort_values(by='Salary',ascending=False))
 # print(df.isna().sum())
@@ -60,3 +60,10 @@ df = pd.read_csv(CSV_PATH)
 # print(df)
 # print(df.fillna(0))
 # print(df[df.duplicated()])
+# print(df)
+# print(df.groupby('Department')['Salary'].agg(
+#     ['count','max','mean','min','median','size']
+print(df.groupby('Department')['Salary'].agg(
+    ['count','max','min','mean','median','size']
+))
+print(df.groupby('Department')['Salary'].mean())
